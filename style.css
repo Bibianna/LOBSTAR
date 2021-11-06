@@ -33,7 +33,7 @@ button:hover{
     cursor: pointer;
 }
 
-.container{
+container{
 	text-align: center;
 	margin-top:200px;
 }
@@ -76,15 +76,4 @@ button:hover{
 .text-wrap p{
 	color:#fff;
 	line-height: 1.5;
-}
-.play-button{
-	position: absolute;
-	right:24px;
-	top:24px;
-	width:60px;
-	height: 60px;
-	border-radius: 50%;
-	background: #004fff url(../img/icon-play.png) center no-repeat;
-	background-size: 20px;
-	z-index: 2;
 }
