@@ -14,7 +14,7 @@ body h2 {
     font-weight: 800;
     font-size: 20px;
     text-transform: full-width;
-    padding-top: 15px;
+    padding-top: 20px;
     letter-spacing: 0.5px;
 
   }
@@ -22,7 +22,7 @@ body h2 {
   body p {
     text-align: center;
     color: rgb(255, 255, 255);
-    font-weight: 700;
+    font-weight: 500;
     font-size: 15px;
     line-height: 5px;
     text-transform: full-width;
