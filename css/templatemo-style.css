@@ -1282,8 +1282,7 @@ footer a {
   opacity: 0.5;
 }
 
-
-
+@media (-webkit-video-playable-inline) .video { display: initial; }
 
 @media (max-width: 530px) {
 
