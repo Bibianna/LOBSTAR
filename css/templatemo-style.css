@@ -63,6 +63,29 @@ nav .logo {
  place-content: center;
 }
 
+nav .header {
+  float:;
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  letter-spacing: 0.5px; 
+}
+
+nav .header a:link {
+  color : rgb(255, 255, 255);
+}
+nav .header a:visited {
+  color : rgb(255, 255, 255);
+}
+nav .header a:hover {
+  color : rgb(224, 59, 59);
+}
+
+
 nav .logo a {
   font-size: 28px;
   line-height: 80px;
